@@ -12,4 +12,5 @@
     Let’s make systems worth trusting again. With legacy, liquidity & love, S.
 </pre>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://komarev.com/ghpvc/?username=samanthajyee&color=yellowgreen">
 </div>
