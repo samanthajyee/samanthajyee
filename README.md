@@ -5,7 +5,7 @@
     🎓 BA @ UC Berkeley • Stanford Code in Place 2024 • UN Youth Delegate
     💫 Dreaming up: WMNCAP (Foundess Hatch W25) • AI Trading Bot • 2 iPhone Apps
     🧵 Laced with: Trust • Reciprocity • Systems thinking • Intentional design
-    🫦 Getting freaky with: Deep RL • Blockchain • Smart Contract Architecture   
+    🫦 Getting freaky with: Deep RL • Blockchain • Smart contract architecture   
     🌙 Pulling late nights with: Python • Solidity • VSCode • Pen & paper
     🐺 Living with 3 huskies & a raging coffee addiction (I do not sleep lol)<br>
     If you’re building something brave, I hope you don’t do it alone.
