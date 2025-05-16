@@ -9,7 +9,7 @@
     🌙 Pulling late nights with: Python • Solidity • VSCode • Pen & paper
     🐺 Living with 3 huskies & a raging coffee addiction (I do not sleep lol)<br>
     If you’re building something brave, I hope you don’t do it alone.
-    Let’s make systems worth trusting again.
+    Let’s make systems worth trusting again. With legacy, liquidity & love, S.
 </pre>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
