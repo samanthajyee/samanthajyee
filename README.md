@@ -11,6 +11,6 @@
     If you’re building something brave, I hope you don’t do it alone.
     Let’s make systems worth trusting again. With legacy, liquidity & love, S.
 </pre>
-<img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/main/Kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/Kyubey.gif" height="40" />
 <img src="https://komarev.com/ghpvc/?username=samanthajyee&color=yellowgreen">
 </div>
