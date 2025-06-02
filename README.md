@@ -9,7 +9,8 @@
     🌙 Pulling late nights with: Python • Solidity • JS • React • SQL • VSCode
     🐺 Living with 3 huskies & a raging coffee addiction (I do not sleep lol)<br>
     If you’re building something brave, I hope you don’t do it alone.
-    Let’s make systems worth trusting again. ✽ <a href="https://samanthajyee.webflow.io">I also make custom sites here.</a>
+    Let’s make systems worth trusting again...
+    <a href="https://samanthajyee.webflow.io">And if your project needs a site, holla at me over here.</a>
 </pre>
 <img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/Kyubey.gif" height="40" />
 <img src="https://komarev.com/ghpvc/?username=samanthajyee&color=e0acea">
