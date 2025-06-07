@@ -11,5 +11,5 @@
     If you’re building something brave, I hope you don’t do it alone.
     <a href="https://samanthajyee.webflow.io">And if your project needs a site, holla at me over here.</a>
 </pre>
-<img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/Huskies.gif" style="height: 40px; max-width: 100px; object-fit: contain;"> <img src="https://komarev.com/ghpvc/?username=samanthajyee&color=e0acea">
+<img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/Huskies.gif" style="height: 40px; max-width: 60px; object-fit: contain;"> <img src="https://komarev.com/ghpvc/?username=samanthajyee&color=e0acea">
 </div>
