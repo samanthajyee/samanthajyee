@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/main/Polaroid.png" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=e0acea&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Oh%2C+hi!+Let%E2%80%99s+skip+the+small+talk%2C+shall+we%3F;I%E2%80%99m+Sam%2C+a+self-taught+programmer+%E2%9C%BD" width="70%" />
+<img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/main/Polaroid.png" width="20%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=e0acea&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=140&lines=Oh%2C+hi!+Let%E2%80%99s+skip+the+small+talk%2C+shall+we%3F;I%E2%80%99m+Sam%2C+a+self-taught+programmer+%E2%9C%BD" width="70%" />
 <pre>
     🎓 BA @ UC Berkeley • Stanford Code in Place 2024 • UN Youth Delegate
     💫 Dreaming up: WMNCAP (Foundess Hatch W25) • AI Trading Bot • 2 iPhone Apps
