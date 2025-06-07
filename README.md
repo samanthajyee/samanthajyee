@@ -12,6 +12,6 @@
     Let’s make systems worth trusting again...
     <a href="https://samanthajyee.webflow.io">And if your project needs a site, holla at me over here.</a>
 </pre>
-<img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/Kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/Huskies.gif" height="40" />
 <img src="https://komarev.com/ghpvc/?username=samanthajyee&color=e0acea">
 </div>
