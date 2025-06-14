@@ -4,7 +4,7 @@
 <pre>
     🎓 BA @ UC Berkeley • Stanford Code in Place 2024 • UN Youth Delegate
     😌 Pouring my all into: AI Stock Trading Bot • Youth Baseball App MVP
-    💫 Dreaming up: Crypto-native lending circles & family trusts (WMNCAP)
+    💫 Dreaming up: Crypto-native lending circles & family trusts @ WMNCAP
     🧵 Laced with: Reciprocity • Care • Systems thinking • Intentional design
     🫦 Getting freaky with: Deep RL • Blockchain • Smart contract architecture   
     🌙 Pulling late nights with: JS • Python • Solidity • VSCode • Pen & paper
