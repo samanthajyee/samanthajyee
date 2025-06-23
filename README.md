@@ -7,7 +7,7 @@
     💫 Dreaming up: Crypto-native lending circles & family trusts @ WMNCAP
     🧵 Laced with: Mutual care • Systems thinking • Intentional design
     🫦 Getting freaky with: Deep RL • Blockchain • Smart contract architecture   
-    🌙 Pulling late nights with: JS • Python • Solidity • VSCode • Pen & paper
+    🌙 Pulling late nights with: JS • SQL • Python • Solidity • Flutter • VSCode
     🐺 Living with 3 huskies & a raging coffee addiction (I do not sleep lol)<br>
     If you’re building something brave, I hope you don’t do it alone.
     <a href="https://samanthajyee.webflow.io">And if your project needs a site, holla at me over here.</a>
