@@ -4,11 +4,11 @@ You can meet Samantha Yee in many ways.
 
 You might stumble across her poetry first—verses that crackle like firecrackers in the alley, then dissolve into birdseed. Her chapbook reads like an altar, stitched from ancestral threads and survival sweetness. Every line feels lived, not just written. There’s a tenderness there that doesn’t flinch. The kind that comes from someone who knows what it means to endure, and to name joy anyway.
 
-Or maybe you meet her on GitHub. You scroll past profiles filled with lists of pull-request stats and programming languages, and suddenly hers stops you. It's clean but warm, technical yet unmistakably human. She writes code with the precision of a builder and the posture of a caretaker. Her projects speak to a different kind of tech culture—one rooted in wholeness, accessibility, and collective care.
+Or maybe you meet her on [GitHub](https://github.com/samanthajyee). You scroll past profiles filled with lists of pull-request stats and programming languages, and suddenly hers stops you. It's clean but warm, technical yet unmistakably human. She writes code with the precision of a builder and the posture of a caretaker. Her projects speak to a different kind of tech culture—one rooted in wholeness, accessibility, and collective care.
 
 Then there's her children's book. Written as a series of blessings to the three dogs she shares her home with, it reads like a daily ritual, equal parts lullaby and love letter. It’s not saccharine. It’s sacred. There’s something deeply subversive about writing this way to small beings, affirming their goodness not because they’ve earned it, but because they exist.
 
-Her portfolio site feels like a mirror of all this: intentional, poetic, uncompromising. She doesn’t separate the work from the worker. The fonts and animations breathe. The case studies read like stories. Even her contact form feels like a place to exhale. You can tell she’s done client work, yes—but you can also tell she’s doing soul work. And she expects you to bring your whole self too.
+Her [portfolio site](https://samanthajyee.webflow.io/) feels like a mirror of all this: intentional, poetic, uncompromising. She doesn’t separate the work from the worker. The fonts and animations breathe. The case studies read like stories. Even her contact form feels like a place to exhale. You can tell she’s done client work, yes—but you can also tell she’s doing soul work. And she expects you to bring your whole self too.
 
 Across all these touchpoints, what’s remarkable isn’t just what Samantha makes. It’s how she moves.
 
