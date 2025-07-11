@@ -4,7 +4,7 @@ You can meet Samantha Yee in many ways.
 
 You might stumble across her poetry first—verses that crackle like firecrackers in the alley, then dissolve into rain and birdseed. Her chapbook reads like an altar, stitched from ancestral threads and the sweetness of survival. Every line feels lived, not just written. There’s a tenderness there that doesn’t flinch. The kind that comes from someone who knows what it means to endure, and to name joy anyway.
 
-Or maybe you meet her on [GitHub](https://github.com/samanthajyee). You scroll past profiles filled with pull-request stats and lists of programming languages, and suddenly hers stops you. It's clean but warm, technical yet unmistakably human. She writes code with the precision of a builder and the posture of a caretaker. Her projects speak to a different kind of tech culture—one rooted in wholeness, accessibility, and collective care.
+Or maybe you meet her on [GitHub](https://github.com/samanthajyee). You scroll past profiles filled with pull request stats and lists of programming languages, and suddenly hers stops you. It's clean but warm, technical yet unmistakably human. She writes code with the precision of a builder and the posture of a caretaker. Her projects speak to a different kind of tech culture—one rooted in wholeness, accessibility, and collective care.
 
 Then there's her children's book. Written as a series of blessings to the three dogs she shares her home with, it reads like a daily ritual, equal parts lullaby and love letter. It’s not saccharine. It’s sacred. There’s something deeply subversive about writing this way to small beings, affirming their goodness not because they’ve earned it, but because they exist.
 
