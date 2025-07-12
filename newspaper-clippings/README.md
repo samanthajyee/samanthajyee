@@ -8,7 +8,7 @@ Or maybe you meet her on [GitHub](https://github.com/samanthajyee). You scroll p
 
 Then there's her children's book. Written as a series of blessings to the three dogs she shares her home with, it reads like a daily ritual, equal parts lullaby and love letter. It’s not saccharine. It’s sacred. There’s something deeply subversive about writing this way to small beings, affirming their goodness not because they’ve earned it, but because they exist.
 
-Her web design [portfolio site](https://samanthajyee.webflow.io/) feels like a mirror of all this: intentional, poetic, uncompromising. She doesn’t separate the work from the worker. The fonts and animations breathe. The case studies read like stories. Even her About page feels like a place to exhale. You can tell she’s done client work, yes—but you can also tell she’s doing soul work. And she expects you to bring your whole self too.
+Her [portfolio site](https://samanthajyee.webflow.io/) feels like a mirror of all this: intentional, poetic, uncompromising. She doesn’t separate her web design work from the worker. The fonts and animations breathe. The case studies read like stories. Even her About page feels like a place to exhale. You can tell she’s done client work, yes—but you can also tell she’s doing soul work. And she expects you to bring your whole self too.
 
 Across all these touchpoints, what’s remarkable isn’t just what Samantha makes. It’s how she moves.
 
