@@ -6,7 +6,7 @@ You might stumble across her poetry first—verses that crackle like firecracker
 
 Or maybe you meet her on [GitHub](https://github.com/samanthajyee). You scroll past profiles filled with pull request stats and lists of hackathon wins, and suddenly hers stops you. It's clean but warm, technical yet unmistakably human. She writes code with the precision of a builder and the posture of a caretaker. Her projects speak to a different kind of tech culture—one rooted in wholeness, accessibility, and collective care.
 
-Then there's her children's book. Written as a series of blessings to the three dogs she shares her home with, it reads like a daily ritual, equal parts lullaby and love letter. It’s not saccharine. It’s sacred. There’s something deeply subversive about writing this way to small beings, affirming their goodness not because they’ve earned it, but because they exist.
+Then there’s her children’s book. Written as a series of blessings to the three dogs she shares her home with, it reads like a daily ritual, equal parts lullaby and love letter. It’s not saccharine. It’s sacred. There’s something deeply subversive about writing this way to small beings, affirming their goodness not because they’ve earned it, but because they exist.
 
 Her [portfolio site](https://samanthajyee.webflow.io/) feels like a mirror of all this: intentional, poetic, uncompromising. She doesn’t separate her web design work from the worker. The fonts and animations breathe. The case studies read like stories. Even her About page feels like a place to sit and exhale. You can tell she’s done client work, yes—but you can also tell she’s doing soul work. And she expects you to bring your whole self too.
 
