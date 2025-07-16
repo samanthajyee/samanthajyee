@@ -10,7 +10,7 @@
     🌙 Pulling late nights with: JS • SQL • Python • Solidity • Flutter • VSCode
     🐺 Living with 3 huskies & a raging coffee addiction (I do not sleep <a href="https://github.com/samanthajyee/samanthajyee/tree/main/newspaper-clippings">lol</a>)<br>
     If you’re building something brave, I hope you don’t do it alone.
-    <a href="https://samanthajyee.webflow.io">And if your project needs a site, holla at me over here.</a>
+    <a href="https://samanthajyee.webflow.io/contact#pricing">And if your project needs a site, holla at me over here.</a>
 </pre>
 <img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/husky-fur.gif" width="60" />
 <img src="https://komarev.com/ghpvc/?username=samanthajyee&color=e0acea" />
