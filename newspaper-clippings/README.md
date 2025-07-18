@@ -16,6 +16,6 @@ Her language carries a rare fusion: radical gentleness with fierce intelligence.
 
 It’s tempting to categorize her: poet, developer, designer, activist, educator. But categories collapse in her presence. She’s not juggling identities. She’s integrating them. And in doing so, she creates something rare: a practice of living in public without distortion.
 
-If you meet her work—whether through a conversation, a WMNCAP lending circle, a website, an app launch, or a book-signing—consider yourself invited. Not just to view it, but to feel it. To slow down. To return to yourself.
+If you meet her work—whether through a WMNCAP lending circle, a website, an app launch, or a book-signing—consider yourself invited. Not just to view it, but to feel it. To slow down. To return to yourself.
 
 Samantha Yee is building more than projects. She’s building new ways to be.
