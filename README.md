@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=e0acea&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=140&lines=Oh%2C+hi!+Let%E2%80%99s+skip+the+small+talk%2C+shall+we%3F;I%E2%80%99m+Sam%2C+a+self-taught+programmer+%E2%9C%BD" width="70%" />
 <pre>
     🎓 BA @ UC Berkeley • Stanford Code in Place 2024 • UN ECOSOC Delegate
-    😌 Currently building: AI Stock Trading Bot • Youth Baseball App MVP
-    💫 Dreaming up: Crypto-native lending circles & family trusts @ WMNCAP
+    😌 Currently building: AI Trading Bot • Youth Baseball App • NFC Jewelry
+    💫 Dreaming up: Crypto-native lending circles for women+ of color @ WMNCAP
     🧵 Laced with: Mutual care • Systems thinking • Intentional design
     🫦 Getting freaky with: Deep RL • Blockchain • Smart contract architecture   
     🌙 Pulling late nights with: JS • SQL • Python • Solidity • Flutter • VSCode
