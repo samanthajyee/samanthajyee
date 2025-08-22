@@ -4,7 +4,7 @@
 <pre>
     🎓 BA @ UC Berkeley • Stanford Code in Place 2024 • UN ECOSOC Delegate
     😌 Currently building: AI Trading Bot • Youth Baseball App • NFC Jewelry
-    💫 Dreaming up: Crypto-native lending circles & family trusts @ WMNCAP
+    💫 Dreaming up: Crypto-native lending circles for women+ of color
     🧵 Laced with: Mutual care • Systems thinking • Intentional design
     🫦 Getting freaky with: Deep RL • Blockchain • Smart contract architecture   
     🌙 Pulling late nights with: JS • SQL • Python • Solidity • Flutter • VSCode
