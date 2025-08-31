@@ -5,7 +5,7 @@
     🎓 BA @ UC Berkeley • Stanford Code in Place 2024 • UN ECOSOC Delegate
     😌 Currently building: AI Trading Bot • Youth Baseball App • NFC Jewelry
     💫 Dreaming up: A blockchain-based lending platform for women+ of color
-    🧵 Laced with: Systems thinking • Mutual aid • Identity & design
+    🧵 Laced with: Systems thinking • Mutual aid • Community care • Identity & design
     🫦 Getting freaky with: Deep RL • Ethereum • Smart contract architecture   
     🌙 Pulling late nights with: JS • SQL • Python • Solidity • Flutter • VSCode
     🐺 Living with 3 huskies & a raging coffee addiction (I do not sleep <a href="https://github.com/samanthajyee/samanthajyee/tree/main/newspaper-clippings">lol</a>)<br>
