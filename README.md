@@ -6,7 +6,7 @@
     😌 Currently building: AI Trading Bot • Youth Baseball App • NFC Jewelry
     💫 Dreaming up: A blockchain-based lending platform for women+ of color
     🧵 Laced with: Systems thinking • Mutual aid • Community care • GTM strategies
-    🫦 Getting freaky with: Deep RL • 3D printing • Ethereum • Smart contracts   
+    🫦 Getting freaky with: Deep RL • 3D printing • Web3 • Crypto • Smart contracts   
     🌙 Pulling late nights with: JS • SQL • Python • Solidity • Flutter • VSCode
     🐺 Living with 2 huskies & a raging coffee addiction (I do not sleep <a href="https://github.com/samanthajyee/samanthajyee/tree/main/newspaper-clippings">lol</a>)<br>
     If you’re building something brave, I hope you don’t do it alone.
