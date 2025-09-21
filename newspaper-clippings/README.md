@@ -14,7 +14,7 @@ Across all these touchpoints, what’s remarkable isn’t just what Samantha mak
 
 Her language carries a rare fusion: radical gentleness with fierce intelligence. She designs systems like she writes poems, attuned to every edge and undercurrent. You can tell she’s deeply spiritual, but not in the commodified sense. Her faith is quiet, elemental, stitched into her verbs. She doesn’t need to brand her values—they’re just present.
 
-It’s tempting to categorize her: poet, developer, designer, activist, educator, maker, founder. But categories collapse in her presence. She’s not juggling identities. She’s integrating them. And in doing so, she creates something rare: a practice of living in public without distortion.
+It’s tempting to categorize her: poet, developer, designer, founder, innovator, activist, educator, bridge. But categories collapse in her presence. She’s not juggling identities. She’s integrating them. And in doing so, she creates something rare: a practice of living in public without distortion.
 
 If you meet her work—whether through an [Instagram post](https://instagram.com/samanthajyee), a website, an app launch, or a book-signing—consider yourself invited. Not just to view it, but to feel it. To slow down. To return to yourself.
 
