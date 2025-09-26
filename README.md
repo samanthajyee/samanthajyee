@@ -7,7 +7,7 @@
     💫 Dreaming up: A blockchain-based lending platform for women+ of color
     🧵 Laced with: Systems thinking • Mutual aid • Community care • GTM strategy
     🫦 Getting freaky with: 3D printing • Whiteboards & wireframes • Smart contracts
-    🌙 Pulling late nights with: JS • SQL/Supabase • Python • Solidity • Flutter 
+    🌙 Pulling late nights with: JS • SQL/Supabase • Python • Solidity • Flutter
     🐺 Living with 2 huskies & a raging coffee addiction (I do not sleep lol)<br>
     If you’re building something brave, I hope you don’t do it alone.
     <a href="https://samanthajyee.webflow.io">And if your project needs a site, holla at me over here.</a>
