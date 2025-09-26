@@ -3,11 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=e0acea&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=140&lines=Oh%2C+hi!+Let%E2%80%99s+skip+the+small+talk%2C+shall+we%3F;I%E2%80%99m+Sam%2C+a+self-taught+programmer+%E2%9C%BD" width="70%" />
 <pre>
     🎓 BA @ UC Berkeley • Stanford Code in Place 2024 • UN ECOSOC Delegate
-    😌 Currently building: AI/ML Trading Bot • Youth Baseball App • NFC Jewelry
+    😌 Currently building: Deep RL Trading Bot • Youth Baseball App • NFC Jewelry
     💫 Dreaming up: A blockchain-based lending platform for women+ of color
     🧵 Laced with: Systems thinking • Mutual aid • Community care • GTM strategy
-    🫦 Getting freaky with: Deep RL • 3D printing • Wireframes • Smart contracts
-    🌙 Pulling late nights with: JS • SQL • Supabase • Python • Solidity • Flutter 
+    🫦 Getting freaky with: 3D printing • Whiteboards & wireframes • Smart contracts
+    🌙 Pulling late nights with: JS • SQL/Supabase • Python • Solidity • Flutter 
     🐺 Living with 2 huskies & a raging coffee addiction (I do not sleep lol)<br>
     If you’re building something brave, I hope you don’t do it alone.
     <a href="https://samanthajyee.webflow.io">And if your project needs a site, holla at me over here.</a>
