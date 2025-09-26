@@ -6,7 +6,7 @@
     😌 Currently building: Deep RL Trading Bot • Youth Baseball App • NFC Jewelry
     💫 Dreaming up: A blockchain-based lending platform for women+ of color
     🧵 Laced with: Systems thinking • Mutual aid • Community care • GTM strategy
-    🫦 Getting freaky with: 3D printing • Whiteboards & wireframes • Smart contracts
+    🫦 Getting freaky with: 3D prints • Whiteboards & wireframes • Smart contracts
     🌙 Pulling late nights with: JS • SQL/Supabase • Python • Solidity • Flutter
     🐺 Living with 2 huskies & a raging coffee addiction (I do not sleep lol)<br>
     If you’re building something brave, I hope you don’t do it alone.
