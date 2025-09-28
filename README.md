@@ -8,7 +8,7 @@
     🧵 Laced with: Systems thinking • Mutual aid • Community care • GTM strategy
     🫦 Getting freaky with: 3D prints • Whiteboards & wireframes • Smart contracts
     🌙 Pulling late nights with: JS • SQL/Supabase • Python • Solidity • Flutter
-    🐺 Living with 2 huskies, 1 betta fish & thousands of backyard birds<br>
+    🐺 Living with 2 huskies, 1 betta fish & a flock of 200+ backyard birds<br>
     If you’re building something brave, I hope you don’t do it alone.
     <a href="https://samanthajyee.webflow.io">And if your project needs a site, holla at me over here.</a>
 </pre>
