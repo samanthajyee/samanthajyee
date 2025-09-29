@@ -10,6 +10,7 @@
     🌙 Pulling late nights with: JS • SQL/Supabase • Python • Solidity • Flutter
     🐺 Living with 2 huskies, 1 betta fish & a raging coffee addiction lol<br>
     If you’re building something brave, <a href="https://samanthajyee.webflow.io">let’s make it together.</a>
+    “The world is changed by your example, not your opinion.” Paulo Coelho
 </pre>
 <img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/husky-fur.gif" width="60" />
 <img src="https://komarev.com/ghpvc/?username=samanthajyee&color=e0acea" />
