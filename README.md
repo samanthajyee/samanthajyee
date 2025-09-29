@@ -8,7 +8,7 @@
     🧵 Laced with: Systems thinking • Mutual aid • Community care • GTM strategy
     🫦 Getting freaky with: 3D prints • Whiteboards & wireframes • Smart contracts
     🌙 Pulling late nights with: JS • SQL/Supabase • Python • Solidity • Flutter
-    🐺 Living with 2 huskies & a raging coffee addiction lol<br>
+    🐺 Living with 2 huskies, 1 betta fish & a raging coffee addiction lol<br>
     If you’re building something brave, <a href="https://samanthajyee.webflow.io">let’s make it together.</a>
 </pre>
 <img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/husky-fur.gif" width="60" />
