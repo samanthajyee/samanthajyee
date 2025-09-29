@@ -4,13 +4,12 @@
 <pre>
     🎓 BA @ UC Berkeley • Stanford Code in Place 2024 • UN ECOSOC Delegate
     😌 Currently building: Deep RL Trading Bot • Youth Baseball App • NFC Jewelry
-    💫 Dreaming up: A blockchain-based lending platform for women+ of color
+    💫 Dreaming up: WMNCAP (blockchain-based lending platform for women+ of color)
     🧵 Laced with: Systems thinking • Mutual aid • Community care • GTM strategy
     🫦 Getting freaky with: 3D prints • Whiteboards & wireframes • Smart contracts
     🌙 Pulling late nights with: JS • SQL/Supabase • Python • Solidity • Flutter
-    🐺 Living with 2 huskies, 1 betta fish & thousands of backyard birds<br>
-    If you’re building something brave, I hope you don’t do it alone.
-    <a href="https://samanthajyee.webflow.io">And if your project needs a site, holla at me over here.</a>
+    🐺 Living with 2 huskies & a raging coffee addiction lol<br>
+    If you’re building something brave, <a href="https://samanthajyee.webflow.io">let’s make it together.</a>
 </pre>
 <img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/husky-fur.gif" width="60" />
 <img src="https://komarev.com/ghpvc/?username=samanthajyee&color=e0acea" />
