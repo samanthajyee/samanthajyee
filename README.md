@@ -7,7 +7,7 @@
     💫 Dreaming up: WMNCAP (blockchain-based lending platform for women+ of color)
     🧵 Laced with: Systems thinking • Mutual aid • Community care • GTM strategy
     🫦 Getting freaky with: 3D prints • Whiteboards & wireframes • Smart contracts
-    🌙 Pulling late nights with: Python • JS • SQL/Supabase • Solidity • Flutter
+    🌙 Pulling late nights with: JS • SQL/Supabase • Python • Solidity • Flutter
     🐺 Living with 2 huskies, 1 betta fish & a flock of 150 feral pigeons<br>
     If you’re building something brave, <a href="https://samanthajyee.webflow.io">let’s make it together.</a> ✽
     “The world is changed by your example, not your opinion.” Paulo Coelho
