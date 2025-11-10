@@ -9,7 +9,7 @@
     🫦 Getting freaky with: 3D prints • Whiteboards & wireframes • Smart contracts
     🌙 Pulling late nights with: JS • SQL/Supabase • Python • Solidity • Flutter
     🐺 Living with 2 huskies, 1 betta fish & a flock of 150 feral pigeons<br>
-    If you’re building something real, <a href="https://samanthajyee.webflow.io/contact">I’m in...</a> ✽
+    If you’re building something real, <a href="https://samanthajyee.webflow.io/contact">I’m in.</a> ✽
     “The world is changed by your example, not your opinion.” Paulo Coelho
 </pre>
 <img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/refs/heads/main/husky-fur.gif" width="60" />
