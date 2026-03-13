@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/main/found-polaroid.png" width="24%" align="right">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=4000&pause=300&color=e0acea&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=I+saw+something+that+needed+building;%26+I+didn%E2%80%99t+wait+for+permission.+I%E2%80%99m+Sam." width="70%"><pre>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=4000&pause=300&color=e0acea&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=I+saw+something+that+needed+building;%26+I+didn%E2%80%99t+wait+for+permission.+I%E2%80%99m+Sam." width="70%"><pre>
     🎓 BA @ UC Berkeley ✦ Stanford Code in Place 2024 ✦ UN ECOSOC Delegate
     😌 Currently building: Deep RL Trading Bot ✦ Youth Baseball App ✦ NFC Jewelry
     💫 Dreaming up: WMNCAP (blockchain-based lending platform for women+ of color)
