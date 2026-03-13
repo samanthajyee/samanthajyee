@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/main/found-polaroid.png" width="24%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=e0acea&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=140&lines=Oh%2C+hi!+Let%E2%80%99s+skip+the+small+talk%2C+shall+we%3F;I%E2%80%99m+Sam%2C+a+self-taught+developer+%E2%9C%BD" width="70%" />
+<img src="https://raw.githubusercontent.com/samanthajyee/samanthajyee/main/found-polaroid.png" width="24%" align="right">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=4000&pause=300&color=e0acea&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=140&lines=I+saw+something+that+needed+building;%26+I+didn%E2%80%99t+wait+for+permission.+I%E2%80%99m+Sam."></a>
 <pre>
-    🎓 BA @ UC Berkeley • Stanford Code in Place 2024 • UN ECOSOC Delegate
-    😌 Currently building: Deep RL Trading Bot • Youth Baseball App • NFC Jewelry
+    🎓 BA @ UC Berkeley ✦ Stanford Code in Place 2024 ✦ UN ECOSOC Delegate
+    😌 Currently building: Deep RL Trading Bot ✦ Youth Baseball App ✦ NFC Jewelry
     💫 Dreaming up: WMNCAP (blockchain-based lending platform for women+ of color)
     🧵 Laced with: Systems thinking • Mutual aid • Community care • GTM strategy
     🫦 Getting freaky with: 3D prints • Whiteboards & wireframes • Smart contracts
