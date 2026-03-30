@@ -7,7 +7,7 @@
     🧵 Laced with: Systems thinking ✦ Mutual aid ✦ Community care ✦ GTM strategy
     🫦 Getting freaky with: 3D prints ✦ Whiteboards & wireframes ✦ Smart contracts
     🌙 Pulling late nights with: JS ✦ SQL/Supabase ✦ Python ✦ Solidity ✦ Flutter
-    🐺 Living with 2 huskies, 1 betta, 5 quail, 150 feral pigeons & counting<br>
+    🐺 Living with 2 huskies, 1 betta, 5 quails, 200 pigeons & counting<br>
     “The world is changed by your example, not your opinion.” Paulo Coelho
     <a href="https://www.instagram.com/samanthajyee">Poet, founder, builder who’s still soft after everything 🧸🪽</a>
 </pre>
